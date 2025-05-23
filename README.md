@@ -56,3 +56,11 @@
 
 #### 🔖 Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+
+ 
+### 💼 Github stats:</h2> 
+[![](https://github-readme-stats.vercel.app/api?username=pcurich&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/pcurich)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=pcurich&theme=material-palenight)](https://github.com/pcurich)
+
+
+
