@@ -10,7 +10,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my spare time, I pursue proof-of-concept projects or build data, software, and business architectures as side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-📄 &nbsp;Please have a look at my [linkedin](https://www.linkedin.com/in/pedro-curich-gonzales/]) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [linkedin](https://www.linkedin.com/in/pedro-curich-gonzales) for more details about me. I'm open to feedback and suggestions!
 
 
 ### 🛠 &nbsp;Tech Stack
