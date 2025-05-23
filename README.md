@@ -16,6 +16,24 @@
 
 #### 🖼️ Framework
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)&nbsp;
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000)&nbsp;
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)&nbsp;
+![Deno](https://img.shields.io/badge/Deno-000?logo=deno&logoColor=fff)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)&nbsp;
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)
+![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
+
+### 🧑‍💻 Programming Language
+
+
 
 #### 🖼️ Framework
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
