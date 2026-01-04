@@ -50,8 +50,22 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white)
 
-### 💼 Github stats:
-[![](https://github-readme-stats.vercel.app/api?username=pcurich&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/pcurich)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=pcurich&theme=material-palenight)](https://github.com/pcurich)
+#### ❇️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=fff)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![IndexedDB](https://img.shields.io/badge/IndexedDB-00599C?logo=javascript&logoColor=fff)
+
+ ### 💳 Github Profile Summary Card
+ 
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pcurich&theme=github_dark)
+  
+ </div>
+ 
+
 
 
